@@ -5,7 +5,7 @@
 > - 8-bit Multiplication
 > - 8-bit Division
 
-> ### Day 
+> ### Day 2
 > - 16-bit Addition
 > - 16-bit Subtraction
 > - 16-bit Multiplication
